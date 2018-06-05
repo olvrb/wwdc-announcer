@@ -1,0 +1,15 @@
+{
+  "name": "wwdc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js#87e5a4565937bf08c392401f1b75552aec49428d"
+  }
+}
